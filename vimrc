@@ -33,6 +33,7 @@ set ofu=syntaxcomplete#Complete
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " 03. Theme/Colors                                                           "
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+set t_Co=256              " enable 256-color mode.
 syntax enable             " enable syntax highlighting (previously syntax on).colorscheme molokai       " set colorschemecolorscheme molokai       " set colorscheme
 colorscheme molokai       " set colorscheme
 
